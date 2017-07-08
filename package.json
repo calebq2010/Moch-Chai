@@ -1,0 +1,27 @@
+{
+  "name": "moch-chai",
+  "version": "1.0.0",
+  "description": "a basic chai mocha setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calebq2010/Moch-Chai.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "Caleb Quinn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calebq2010/Moch-Chai/issues"
+  },
+  "homepage": "https://github.com/calebq2010/Moch-Chai#readme",
+  "dependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
